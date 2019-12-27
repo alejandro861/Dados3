@@ -1,0 +1,11 @@
+D:\Progra II\Dados3\Dados3\Dados3\bin\Debug\netcoreapp3.0\Dados3.exe
+D:\Progra II\Dados3\Dados3\Dados3\bin\Debug\netcoreapp3.0\Dados3.deps.json
+D:\Progra II\Dados3\Dados3\Dados3\bin\Debug\netcoreapp3.0\Dados3.runtimeconfig.json
+D:\Progra II\Dados3\Dados3\Dados3\bin\Debug\netcoreapp3.0\Dados3.runtimeconfig.dev.json
+D:\Progra II\Dados3\Dados3\Dados3\bin\Debug\netcoreapp3.0\Dados3.dll
+D:\Progra II\Dados3\Dados3\Dados3\bin\Debug\netcoreapp3.0\Dados3.pdb
+D:\Progra II\Dados3\Dados3\Dados3\obj\Debug\netcoreapp3.0\Dados3.csprojAssemblyReference.cache
+D:\Progra II\Dados3\Dados3\Dados3\obj\Debug\netcoreapp3.0\Dados3.AssemblyInfoInputs.cache
+D:\Progra II\Dados3\Dados3\Dados3\obj\Debug\netcoreapp3.0\Dados3.AssemblyInfo.cs
+D:\Progra II\Dados3\Dados3\Dados3\obj\Debug\netcoreapp3.0\Dados3.dll
+D:\Progra II\Dados3\Dados3\Dados3\obj\Debug\netcoreapp3.0\Dados3.pdb
