@@ -4,6 +4,10 @@ namespace Dados3
 {
     class Program
     {
+        static int ObtenerSuma(int caraDado1, int caraDado2)
+        {
+            return caraDado1 + caraDado2;
+        }
         static void dibujarDado(int caraSuperior, int caraCentral, int caraDerecha, int caraSuperior2, int caraCentral2, int caraIzquierda)
         {
             Console.WriteLine("                    ===========                            ===========");
@@ -65,7 +69,7 @@ namespace Dados3
          //           } while (valores1[1] == valores2[1]);
                     dibujarDado(valores1[0], valores1[1], valores1[2], valores2[0], valores2[1], valores2[2]);
                     Console.WriteLine("");
-         //           Console.WriteLine("La suma de los dados es de {0}...", valores1[1] + valores2[1]);
+                    Console.WriteLine("La suma de los dados es de {0}...", ObtenerSuma(valores1[1],valores2[1]));
                 }
                 else if (tecla.Key != ConsoleKey.Enter && tecla.Key != ConsoleKey.Escape)
                 {
