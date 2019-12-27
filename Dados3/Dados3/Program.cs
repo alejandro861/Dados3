@@ -57,12 +57,12 @@ namespace Dados3
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Nueva visualización...");
-         //           do
-         //         {
+                    do
+                  {
                         valores1 = ObtenerValoresAleatorios();
                         valores2 = ObtenerValoresAleatorios();
                         //    Console.WriteLine("valor 1 {0} y valor 2 {1}", valores1[1], valores2[1]);  Verificación
-         //           } while (valores1[1] == valores2[1]);
+                    } while (valores1[1] == valores2[1]);
                     dibujarDado(valores1[0], valores1[1], valores1[2], valores2[0], valores2[1], valores2[2]);
                     Console.WriteLine("");
          //           Console.WriteLine("La suma de los dados es de {0}...", valores1[1] + valores2[1]);
